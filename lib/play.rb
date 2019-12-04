@@ -37,4 +37,7 @@ end
 
 # Define your play method below
 
-def play()
+def play(board)
+  last_round = 9 
+  
+end
